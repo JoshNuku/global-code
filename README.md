@@ -6,9 +6,8 @@ Usage:
 
 - Run demo:
 
-    python -m simple_project
+  py -m simple_project
 
 - Run tests (requires pytest):
 
-    pytest -q
-# global-code
+  pytest -q
